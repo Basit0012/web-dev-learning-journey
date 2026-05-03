@@ -16,8 +16,10 @@ div.header{
 }
 div.about-me{
     padding:20px;
-    margin: 20px;
+    margin: 10px auto;
     text-align: center;
+    width: 80%;
+    border-radius: 8px;
     background-color: #f0f0f0;
     color: #444;
 }
