@@ -1,0 +1,35 @@
+@font-face{
+    font-familty: 'Samsung';
+    src:url(./SamsungSharpSansBd.woff2);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+h1{
+    color:red;
+    background-color: black;
+    font-size: 100px;
+    font-family: Samsung;
+}
+div{
+    height: 100px;
+    width:100px;
+    background-color: crimson;
+}
+#box1{
+    hight: 200px;
+    width: 200px;
+    background-color: aquamarine;
+}
+.box1{
+    height: 300px;
+    width: 300px;
+    background-color: blue;
+}

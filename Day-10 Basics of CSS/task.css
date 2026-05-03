@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html, body{
+    height: 100%;
+    width: 100%;
+}
+
+div.header{
+    background-color: rgb(27, 45, 99);
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+div.about-me{
+    padding:20px;
+    margin: 20px;
+    text-align: center;
+    background-color: #f0f0f0;
+    color: #444;
+}
+div.Education{
+    background-color: rgb(108, 139, 231);
+    text-align: center;
+    margin: 10px auto;
+    padding: 10px;
+    width: 80%;
+    border-radius: 8px;
+}
+.education-item{
+    background-color: white;
+    margin: 10px auto;
+    padding: 10px;
+    width: 60%;
+    border-radius: 8px;
+}
+div.skills{
+    background-color: #ffff00;
+    text-align: center;
+    margin: 10px auto;
+    padding: 10px;
+    width: 80%;
+    border-radius: 8px;
+}
+.skills-item{
+    background-color: white;
+    margin: 10px auto;
+    padding: 10px;
+    width: 60%;
+    border-radius: 8px;
+}
+div.projects{
+    background-color: rgb(215, 132, 215);
+    text-align: center;
+    margin: 10px auto;
+    padding: 10px;
+    width: 80%;
+    border-radius: 8px;
+}
+.projects-item{
+    background-color: white;
+    margin: 10px auto;
+    padding: 10px;
+    width: 60%;
+    border-radius: 8px;
+}
+div.contact{
+    background-color: rgb(157, 186, 157);
+    text-align: center;
+    margin: 10px auto;
+    padding: 10px;
+    width: 80%;
+    border-radius: 8px;
+}
+.contact-item{
+    background-color: white;
+    margin: 10px auto;
+    padding: 10px;
+    width: 80%;
+    border-radius: 8px;
+}
